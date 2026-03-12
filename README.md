@@ -16,8 +16,11 @@ GitHub is an online platform that stores Git repositories and allows developers 
 Features:
 
 *Store code online
+
 *Collaborate with others
+
 *Manage projects
+
 *Share work publicly
 
 Difference Between Git and GitHub:
@@ -28,10 +31,13 @@ GitHub:
 
 *Version control system
 -Online hosting platform
+
 *Works locally on a computer
 -Works on the internet
+
 *Tracks file changes
 -Stores and shares repositories
+
 *Created by Linus Torvalds
 -Owned by Microsoft
 
@@ -40,8 +46,12 @@ GitHub:
 GitHub is important for:
 
 *Coding practice
+
 *Project collaboration
+
 *Portfolio building
+
 *Internship and job opportunities
+
 *Many companies check GitHub profiles during hiring.
 
